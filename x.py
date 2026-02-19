@@ -1,4 +1,7 @@
-a = 2
-b = 3
-c = a+b
-print(c)
+"""Simple program to add two numbers and print the result."""
+
+A = 2
+B = 3
+C = A + B
+
+print(C)
