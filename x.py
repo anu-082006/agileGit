@@ -2,6 +2,6 @@
 
 A = 2
 B = 3
-C = A + B
-
-print(C)
+C=4
+D = A + B + C
+print(D)
